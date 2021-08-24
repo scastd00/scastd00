@@ -102,6 +102,7 @@
 </a>
 
 <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=scastd00row=2&column=3&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 <p>
