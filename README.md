@@ -103,7 +103,7 @@
 
 <br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a>
 	<h2>🏆 Github Profile Trophy</h2>
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
