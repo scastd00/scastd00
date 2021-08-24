@@ -112,6 +112,8 @@
 
 <br>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scastd00&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 <p>
 	<img src="https://github-readme-stats.vercel.app/api?username=scastd00&show_icons=true&theme=radical&hide_border=true&locale=en&count_private=true" alt="scastd00" />
 </p>
@@ -119,3 +121,7 @@
 <p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scastd00&theme=radical&hide_border=true&locale=en&langs_count=7" alt="scastd00" />
 </p>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
