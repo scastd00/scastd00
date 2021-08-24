@@ -102,7 +102,14 @@
 </a>
 
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=scastd00row=2&column=3&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+	<h2>🏆 Github Profile Trophy</h2>
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=scastd00&row=2&column=3&theme=radical&margin-w=6&margin-h=6&no-frame=true&title=Commit,Followers,Repositories"/>
+</a>
+
 <br>
 
 <p>
