@@ -10,8 +10,6 @@
 
 ### Connect with me:
 
-
-
 <a href="https://twitter.com/samuelete_26" target="blank">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuelete_26" height="30" width="40" /
 </a>
@@ -38,8 +36,9 @@
 
 <br />
 
-### Languages and Tools:
 
+
+### Languages and Tools:
 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -103,6 +102,8 @@
 
 <br>
 
+
+
 <a>
 	<h2>🏆 Github Profile Trophy</h2>
 </a>
@@ -121,6 +122,8 @@
 <p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scastd00&theme=radical&hide_border=true&locale=en&langs_count=7" alt="scastd00" />
 </p>
+
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
