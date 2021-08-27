@@ -119,7 +119,7 @@
 </p>
 
 <p>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scastd00&theme=radical&hide_border=true&locale=en&langs_count=7" alt="scastd00" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scastd00&theme=radical&hide_border=true&locale=en&langs_count=7&count_private=true" alt="scastd00" />
 </p>
 
 <!--START_SECTION:waka-->
