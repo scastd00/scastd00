@@ -11,27 +11,27 @@
 ### Connect with me:
 
 <a href="https://twitter.com/samuelete_26" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuelete_26" height="30" width="40" /
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuelete_26" height="30" width="40" />
 </a>
 
 
 <a href="https://linkedin.com/in/samuel-castrillo-domínguez-9a841a218" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-castrillo-domínguez-9a841a218" height="30" width="40" /
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-castrillo-domínguez-9a841a218" height="30" width="40" />
 </a>
 
 
 <a href="https://stackoverflow.com/users/13071730" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13071730" height="30" width="40" /
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13071730" height="30" width="40" />
 </a>
 
 
 <a href="https://instagram.com/samuelete_26" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuelete_26" height="30" width="40" /
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuelete_26" height="30" width="40" />
 </a>
 
 
 <a href="https://discord.gg/C2ME2nS" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="C2ME2nS" height="30" width="40" /
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="C2ME2nS" height="30" width="40" />
 </a>
 
 <br />
@@ -128,67 +128,67 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 295 Contributions in the Year 2021
- > 
-> 📦 322.3 kB Used in Github's Storage 
- > 
+ >
+> 📦 322.3 kB Used in Github's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 37 Private Repositories  
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 10 Public Repositories
+ >
+> 🔑 37 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    19 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44% 
-🌆 Daytime    150 commits    ██████░░░░░░░░░░░░░░░░░░░   27.12% 
-🌃 Evening    142 commits    ██████░░░░░░░░░░░░░░░░░░░   25.68% 
+🌞 Morning    19 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
+🌆 Daytime    150 commits    ██████░░░░░░░░░░░░░░░░░░░   27.12%
+🌃 Evening    142 commits    ██████░░░░░░░░░░░░░░░░░░░   25.68%
 🌙 Night      242 commits    ███████████░░░░░░░░░░░░░░   43.76%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-Tuesday      85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-Wednesday    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
-Friday       103 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.63% 
-Saturday     92 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.64% 
+Monday       63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39%
+Tuesday      85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.37%
+Wednesday    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22%
+Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.01%
+Friday       103 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.63%
+Saturday     92 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.64%
 Sunday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Madrid
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in Java**
 
 ```text
-Java                     24 repos            █████████░░░░░░░░░░░░░░░░   38.71% 
-C                        17 repos            ██████░░░░░░░░░░░░░░░░░░░   27.42% 
-Assembly                 5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+Java                     24 repos            █████████░░░░░░░░░░░░░░░░   38.71%
+C                        17 repos            ██████░░░░░░░░░░░░░░░░░░░   27.42%
+Assembly                 5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.06%
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
 Ruby                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.84%
 
 ```
@@ -196,7 +196,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/scastd00/scastd00/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/scastd00/scastd00/main/charts/bar_graph.png)
 
 
  Last Updated on 03/09/2021
