@@ -36,8 +36,6 @@
 
 <br />
 
-
-
 ### Languages and Tools:
 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
@@ -100,9 +98,14 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 </a>
 
-<br>
+<br />
 
+### Personal badges
+<a href="https://www.credly.com/badges/fcf1ec40-7c9b-4cc1-b9d3-1ecb1cd04021" target="_blank">
+	<img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" alt="CyberOps" width="100" height="100">
+</a>
 
+<br />
 
 <a>
 	<h2>🏆 Github Profile Trophy</h2>
@@ -111,7 +114,7 @@
 	<img width=400 src="https://github-profile-trophy.vercel.app/?username=scastd00&row=2&column=3&theme=radical&margin-w=6&margin-h=6&no-frame=true&title=Commit,Followers,Repositories"/>
 </a>
 
-<br>
+<br />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scastd00&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
