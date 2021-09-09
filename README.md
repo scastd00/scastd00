@@ -6,7 +6,6 @@
 - 💬 Ask me about **Java, C**
 - 📫 How to reach me **scastd00@estudientes.unileon.es**
 
-<br />
 
 ### Connect with me:
 
