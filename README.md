@@ -100,7 +100,7 @@
 
 <br />
 
-### Personal badges
+### Course badges
 <a href="https://www.credly.com/badges/fcf1ec40-7c9b-4cc1-b9d3-1ecb1cd04021" target="_blank">
 	<img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" alt="CyberOps" width="100" height="100">
 </a>
