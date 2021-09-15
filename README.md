@@ -153,7 +153,6 @@
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/Gimp-657D8B?logo=gimp&logoColor=FFFFFF"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"></a>
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
@@ -184,10 +183,19 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scastd00&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-<p>
-	<img src="https://github-readme-stats.vercel.app/api?username=scastd00&show_icons=true&theme=radical&hide_border=true&locale=en&count_private=true" alt="scastd00" />
-</p>
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+		<img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=scastd00&show_icons=true&theme=radical&hide_border=true&locale=en&count_private=true" height="192px"/>
+	</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+		<img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=scastd00&layout=compact&theme=radical&hide_border=true&locale=en&langs_count=7" height="192px"/>
+	</a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
+</details>
 
-<p>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scastd00&layout=compact&theme=radical&hide_border=true&locale=en&langs_count=7" alt="scastd00" />
-</p>
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=scastd00&theme=redical&hide_border=true&custom_title=scastd00's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
