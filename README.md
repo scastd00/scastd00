@@ -136,7 +136,7 @@
     <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases
 
 <p>
     <a href="#"><img alt="SQLServer" src ="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
@@ -187,10 +187,10 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-		<img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=scastd00&show_icons=true&theme=radical&hide_border=true&locale=en&count_private=true" height="192px"/>
+		<img alt="scastd00's Github Stats" src="https://github-readme-stats.vercel.app/api?username=scastd00&show_icons=true&theme=radical&hide_border=true&locale=en&count_private=true"/>
 	</a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-		<img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=scastd00&layout=compact&theme=radical&hide_border=true&locale=en&langs_count=7" height="192px"/>
+		<img alt="scastd00's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=scastd00&layout=compact&theme=radical&hide_border=true&locale=en&langs_count=8"/>
 	</a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
