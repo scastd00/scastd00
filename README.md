@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel Castrillo</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=550&lines=A+passionate+developer+from+Le%C3%B3n%2C+Spain)](https://git.io/typing-svg)
+<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=550&lines=A+passionate+developer+from+Le%C3%B3n%2C+Spain">
+</p>
+
 - 🔭 I’m currently studying **Computer Engineering**
 - 🌱 I’m currently learning **Javascript, Vue.js**
 - 💬 Ask me about **Java, C**
