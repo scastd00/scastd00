@@ -17,7 +17,7 @@
 
 
 ### Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail%20-%20scastd00@estudientes.unileon.es-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+![Gmail](https://img.shields.io/badge/Gmail%20-%20scastd00@estudientes.unileon.es-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/samuelete_26/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-castrillo-dom%C3%ADnguez-9a841a218/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Samuelete_26)
@@ -26,7 +26,7 @@
 
 ### Social Media
 [![Discord](https://img.shields.io/badge/Discord%20Community-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/samuelete_26/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@samuelete_26)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/samuelete_26)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwjoPC_u0cBvYhaBxA2_t3w)
