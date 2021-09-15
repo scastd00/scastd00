@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
   Welcome to Samuel Castrillo's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-</h2>
+</h1>
 
 <!-- Typing SVG by scastd00 - https://github.com/scastd00/readme-typing-svg -->
 <p align="center">
@@ -17,102 +17,72 @@
 
 
 ### Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail%20-%20scastd00@estudientes.unileon.es-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/samuelete_26/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-castrillo-dom%C3%ADnguez-9a841a218/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Samuelete_26)
+[![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13071730/samuel-castrillo-dom%c3%adnguez)
 
-![Discord](https://img.shields.io/badge/Team%20Samuelete-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Samuelete26-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![TikTok](https://img.shields.io/badge/Samuelete26-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-![Twitch](https://img.shields.io/badge/Samuelete26-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-![Twitter](https://img.shields.io/badge/Samuelete26-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![YouTube](https://img.shields.io/badge/Samuelete26-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-
-<a href="https://twitter.com/samuelete_26" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuelete_26" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/samuel-castrillo-domínguez-9a841a218" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-castrillo-domínguez-9a841a218" height="30" width="40" />
-</a>
-
-
-<a href="https://stackoverflow.com/users/13071730" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13071730" height="30" width="40" />
-</a>
-
-
-<a href="https://instagram.com/samuelete_26" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuelete_26" height="30" width="40" />
-</a>
-
-
-<a href="https://discord.gg/C2ME2nS" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="C2ME2nS" height="30" width="40" />
-</a>
+### Social Media
+[![Discord](https://img.shields.io/badge/Discord%20Community-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/samuelete_26/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@samuelete_26)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/samuelete_26)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwjoPC_u0cBvYhaBxA2_t3w)
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
-<p>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Ascastd00+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
+[![MIPS Assembly](https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Aassembly)
+[![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Abash)
+[![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Ac)
+[![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Acpp)
+[![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Acss)
+[![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Ahtml)
+[![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Ajava)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3Ascastd00+language%3Ajavascript)
+[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Amarkdown)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Ajavascript)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Aruby)
+[![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Asql)
+
+<!-- For copy  [![]()]() -->
+
 
 ### 🧰 Frameworks and libraries
 
-<p>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-    <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white"></a>
-    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white"></a>
-    <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
-    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"></a>
-    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF"></a>
-</p>
+[![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)]()
+[![JUnit](https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white)]()
+[![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)]()
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)]()
+[![Qt](https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white)]()
+[![SonarLint](https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white)]()
+[![Vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)]()
+[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF)]()
 
 ### 🗄️ Databases
-
-<p>
-    <a href="#"><img alt="SQLServer" src ="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-</p>
+[![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)]()
+[![Oracle](https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white)]()
 
 ### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white"></a>
-    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/Gimp-657D8B?logo=gimp&logoColor=FFFFFF"></a>
-    <a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"></a>
-    <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE"></a>
-    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Webstorm" src="https://img.shields.io/badge/Webstorm-143?logo=webstorm&logoColor=white&color=black"></a>
-</p>
-
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)]()
+[![Audacity](https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white)]()
+[![CLion](https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white)]()
+[![Dark Reader](https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)]()
+[![GIMP](https://img.shields.io/badge/Gimp-657D8B?logo=gimp&logoColor=FFFFFF)]()
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)]()
+[![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE)]()
+[![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)]()
+[![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)]()
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)]()
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)]()
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)]()
+[![Webstorm](https://img.shields.io/badge/Webstorm-143?logo=webstorm&logoColor=white&color=black)]()
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)]()
 
 <br />
 
