@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Castrillo</h1>
-<h3 align="center">A passionate developer from León, Spain</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&lines=A+passionate+developer+from+Le%C3%B3n%2C+Spain)](https://git.io/typing-svg)
 
 - 🔭 I’m currently studying **Computer Engineering**
 - 🌱 I’m currently learning **Javascript, Vue.js**
