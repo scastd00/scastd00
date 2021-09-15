@@ -17,38 +17,39 @@
 
 
 ### Connect with me:
-<a href="#">
-	<img alt="Gmail" src="https://img.shields.io/badge/Gmail%20-%20scastd00@estudientes.unileon.es-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.instagram.com/samuelete_26" target="_blank">
-	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/samuel-castrillo-dom%C3%ADnguez-9a841a218" target="_blank">
-	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://twitter.com/Samuelete_26" target="_blank">
-	<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-<a href="https://stackoverflow.com/users/13071730/samuel-castrillo-dom%c3%adnguez" target="_blank">
-	<img alt="StackOverflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-</a>
-
+<p>
+	<a href="#">
+		<img alt="Gmail" src="https://img.shields.io/badge/Gmail%20-%20scastd00@estudientes.unileon.es-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+	<a href="https://www.instagram.com/samuelete_26" target="blank">
+		<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+	</a>
+	<a href="https://www.linkedin.com/in/samuel-castrillo-dom%C3%ADnguez-9a841a218" target="blank">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<a href="https://twitter.com/Samuelete_26" target="blank">
+		<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+	</a>
+	<a href="https://stackoverflow.com/users/13071730/samuel-castrillo-dom%c3%adnguez" target="blank">
+		<img alt="StackOverflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+	</a>
+</p>
 
 ### Social Media
 <p>
-	<a href="https://www.instagram.com/samuelete_26" target="_blank">
+	<a href="https://www.instagram.com/samuelete_26" target="blank">
 		<img alt="Discord" src="https://img.shields.io/badge/Discord%20Community-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 	</a>
 	<a href="#">
 		<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 	</a>
-	<a href="https://www.tiktok.com/@samuelete_26" target="_blank">
+	<a href="https://www.tiktok.com/@samuelete_26" target="blank">
 		<img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 	</a>
-	<a href="https://www.twitch.tv/samuelete_26" target="_blank">
+	<a href="https://www.twitch.tv/samuelete_26" target="blank">
 		<img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
 	</a>
-	<a href="https://www.youtube.com/channel/UCwjoPC_u0cBvYhaBxA2_t3w" target="_blank">
+	<a href="https://www.youtube.com/channel/UCwjoPC_u0cBvYhaBxA2_t3w" target="blank">
 		<img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 	</a>
 </p>
