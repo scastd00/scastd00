@@ -17,42 +17,20 @@
 
 
 ### Connect with me:
-<p>
-	<a href="#">
-		<img alt="Gmail" src="https://img.shields.io/badge/Gmail%20-%20scastd00@estudientes.unileon.es-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-	<a href="https://www.instagram.com/samuelete_26" target="blank">
-		<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-	</a>
-	<a href="https://www.linkedin.com/in/samuel-castrillo-dom%C3%ADnguez-9a841a218" target="blank">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
-	<a href="https://twitter.com/Samuelete_26" target="blank">
-		<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-	</a>
-	<a href="https://stackoverflow.com/users/13071730/samuel-castrillo-dom%c3%adnguez" target="blank">
-		<img alt="StackOverflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-	</a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail%20-%20scastd00@estudientes.unileon.es-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/samuelete_26/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-castrillo-dom%C3%ADnguez-9a841a218/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Samuelete_26)
+[![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13071730/samuel-castrillo-dom%c3%adnguez)
+
 
 ### Social Media
-<p>
-	<a href="https://www.instagram.com/samuelete_26" target="blank">
-		<img alt="Discord" src="https://img.shields.io/badge/Discord%20Community-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-	</a>
-	<a href="#">
-		<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-	</a>
-	<a href="https://www.tiktok.com/@samuelete_26" target="blank">
-		<img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
-	</a>
-	<a href="https://www.twitch.tv/samuelete_26" target="blank">
-		<img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
-	</a>
-	<a href="https://www.youtube.com/channel/UCwjoPC_u0cBvYhaBxA2_t3w" target="blank">
-		<img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-	</a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord%20Community-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/samuelete_26/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@samuelete_26)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/samuelete_26)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwjoPC_u0cBvYhaBxA2_t3w)
+
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 ## 🛠️ My favorite tools
@@ -71,8 +49,6 @@
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Aruby)
 [![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3Ascastd00+language%3Asql)
 
-<!-- For copy  [![]()]() -->
-
 
 ### 🧰 Frameworks and libraries
 
@@ -85,10 +61,12 @@
 [![Vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)]()
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF)]()
 
+
 ### 🗄️ Databases
 [![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)]()
 [![Oracle](https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white)]()
+
 
 ### 💻 Software and tools
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)]()
@@ -110,8 +88,9 @@
 
 <br />
 
+
 ### Course badges
-<a href="https://www.credly.com/badges/fcf1ec40-7c9b-4cc1-b9d3-1ecb1cd04021" target="_blank">
+<a href="https://www.credly.com/badges/fcf1ec40-7c9b-4cc1-b9d3-1ecb1cd04021">
 	<img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" alt="CyberOps" width="100" height="100">
 </a>
 
