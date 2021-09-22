@@ -13,7 +13,7 @@
 - 🔭 I’m currently studying **Computer Engineering**
 - 🌱 I’m currently learning **Javascript, Vue.js**
 - 💬 Ask me about **Java, C**
-- 📫 How to reach me **scastd00@estudientes.unileon.es**
+- 📫 How to reach me **scastd00@estudiantes.unileon.es**
 
 
 ### Connect with me:
