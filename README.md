@@ -123,3 +123,5 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=scastd00&theme=redical&hide_border=true&custom_title=scastd00's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer)
